@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">Software engineer and computer science student Universidad Rey Juan Carlos</h3>
+<h3 align="center">Software engineer and computer science student at Universidad Rey Juan Carlos</h3>
 
 ***
 
